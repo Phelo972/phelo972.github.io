@@ -1,6 +1,6 @@
 ## Bienvenue sur GitHub Pages
 
-Vous pouvez utiliser [l'éditeur sur GitHub](https://github.com/Phelo972/phelo972.github.io/edit/master/README.md) pour maintenir et prévisualiser le contenu de votre site web dans des fichiers Markdown.
+Vous pouvez utiliser l'éditeur sur GitHub pour maintenir et prévisualiser le contenu de votre site web dans des fichiers Markdown.
 
 Dès que vous effectuez une soumission (commit) dans ce dépôt (repository), GitHub Pages lancera [Jekyll](https://jekyllrb.com/) pour recompiler les pages de votre site, à partir du contenu de vos fichiers Markdown.
 
